@@ -1,5 +1,10 @@
 Practica 2 de Dispositivos
 
+- Controles pinball:
+  - Arriba: Lanzar la bola
+  - Izquierda: Flipper izquierdo
+  - Derecha: Flipper derecho
+  - Abajo: Reiniciar pinball
 - La fricción de la bola es 0.03 para que se mueva con más fluidez
 - La masa es de 0.3
 - Los flippers se mueven más rápido, cambió de 0.1 a 0.05
